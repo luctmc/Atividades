@@ -1,3 +1,2 @@
 # Atividades
-Repositório para fins universitários.
-Linguagem C.
+Repositório para fins universitários ( Linguagem C ).
