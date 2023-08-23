@@ -15,7 +15,7 @@ int main(int argc, char *argv[]) {
 	printf("Insira o valor do pedagio:\n");
 	scanf("%f", &vpedagio);
 	
-	if (vpedagio >= saldo){
+	if (vpedagio > saldo){
 		printf("PASSAGEM BLOQUEADA! falta saldo em sua conta \n");
 		printf("Saldo: %f\n", saldo);
 	}
